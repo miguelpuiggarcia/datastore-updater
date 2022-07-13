@@ -5,8 +5,10 @@ Update Datastore entity fields in bulk specifying a filter to search for and fie
 ## Before you begin
 
 [https://console.cloud.google.com/project?_ga=2.184610537.1325311943.1657533922-619361646.1655407287](Select or create a Cloud Platform project.)
+
 [https://console.cloud.google.com/flows/enableapi?apiid=datastore.googleapis.com&_ga=2.184610537.1325311943.1657533922-619361646.1655407287](Enable the Google Cloud Datastore API.)
-[https://cloud.google.com/docs/authentication/getting-started](Set up authentication with a service account so you can access the API from your local workstation.)
+
+[Set up authentication with a service account so you can access the API from your local workstation.](https://cloud.google.com/docs/authentication/getting-started)
 
 ## How to Use
 
