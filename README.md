@@ -20,7 +20,7 @@ Change `/config.js` with your configuration
 
 Default values:
 
-```json
+```
 {
   dryRun: true, // True won't perform the save, just fake it
   projectId: "prod-nandos-id-1f3c2e0c",
